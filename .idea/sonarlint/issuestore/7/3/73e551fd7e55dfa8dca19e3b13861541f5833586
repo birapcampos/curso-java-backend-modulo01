@@ -1,0 +1,12 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ší8İÚ²›‚2J$1a68223e-7811-469f-b57e-59a84242c6a0
+ƒ
+java:S1854"@Remove this useless assignment to local variable "raizQuadrada".(ù«èÖ8ßÚ²›‚2J$d84d9f8e-6321-47ea-b2ed-b252c2752f02
+t
+java:S1481"1Remove this unused "raizQuadrada" local variable.(ù«èÖ8àÚ²›‚2J$07a174fd-94c8-445d-861a-55b78f1ebc10
+r	java:S106"+Replace this use of System.out by a logger.(Ê€Ñùÿÿÿÿ8àÚ²›‚2J$520370db-6647-4640-8305-41ee732c4df1
+m	java:S106"+Replace this use of System.out by a logger.(É¦ÀË8àÚ²›‚2J$40c2eaa7-e7bb-4406-99c7-6274f74dc078
+m	java:S106"+Replace this use of System.out by a logger.(ÖÁº¯8àÚ²›‚2J$ba02ef8e-4f8b-4751-8c1a-65b6ddbae2d6
+r	java:S106"+Replace this use of System.out by a logger.(­ÙÖ­úÿÿÿÿ8àÚ²›‚2J$ca066bbe-aab2-4576-845a-f21bcc5bea84
+m	java:S106"+Replace this use of System.out by a logger.(­ŒÁê8àÚ²›‚2J$2cc9d665-cfe8-49b5-a140-dce6f7219152
+m	java:S106"+Replace this use of System.out by a logger.(É¦É8áÚ²›‚2J$80f6a842-474b-4f4a-9e42-70581fbd5e28

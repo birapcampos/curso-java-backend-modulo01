@@ -1,0 +1,9 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŸÖÛÕJ$382144db-da1f-45b0-823a-16a9cd1991c8
+‹
+java:S3518"CMake sure this expression can't be zero before doing this division.(Ù‘ùáþÿÿÿÿ8ìƒ—›‚2J$00f5abaf-6d0d-4480-8b9b-fdd20d6cacac
+…
+java:S1854"=Remove this useless assignment to local variable "resultado".(Ù‘ùáþÿÿÿÿ8ðƒ—›‚2J$b71b6e7e-29bd-486e-8164-82bff3d0d0d1
+v
+java:S1481".Remove this unused "resultado" local variable.(Ù‘ùáþÿÿÿÿ8òƒ—›‚2J$081d568a-f6db-4e79-b759-25bde76f0c93
+r	java:S106"+Replace this use of System.out by a logger.(˜ƒ¥ðþÿÿÿÿ8óƒ—›‚2J$e82f6358-4cfd-40a7-a0dd-530dcaec6803
