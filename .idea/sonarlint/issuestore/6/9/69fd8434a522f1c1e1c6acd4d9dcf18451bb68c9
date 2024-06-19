@@ -1,6 +1,9 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¤²¦øÿÿÿÿ8ç¨š‚2J$ad6ed30c-7005-429e-acc1-0e1a433df114
-m	java:S106"+Replace this use of System.out by a logger.(¡ô½º8îø¨š‚2J$168c5f0c-3d93-41c2-bef6-da3af08fd6da
-m	java:S106	"+Replace this use of System.out by a logger.(ÆÑé®8îø¨š‚2J$4ac0a866-839a-4297-98f5-c038448db860
-m	java:S106"+Replace this use of System.out by a logger.(¨å” 8îø¨š‚2J$dd4c61a4-6b34-4d1f-86d6-3a7eaf301f88
-m	java:S106"+Replace this use of System.out by a logger.(ã¤ğÑ8ãƒ©š‚2J$eb0b7ff3-a17a-4fe8-a6b4-ac8963f1cd0c
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ã¤²¦øÿÿÿÿ8ç¨š‚2J$807264e1-a0ee-4b89-be5b-9fda36013412
+‰
+java:S1854"ARemove this useless assignment to local variable "outrosNumeros".(Ñôõ¡ûÿÿÿÿ8ÇŒ°Ç‚2J$36142f9e-9655-4779-a2f9-f48e009065d6
+z
+java:S1481"2Remove this unused "outrosNumeros" local variable.(Ñôõ¡ûÿÿÿÿ8ÈŒ°Ç‚2J$3c13d9c9-76ff-45bd-b2ea-c8a42d1d3b7f
+r	java:S106"+Replace this use of System.out by a logger.(ÕğªÁşÿÿÿÿ8ÈŒ°Ç‚2J$e0269e0f-73d3-4017-b0dc-3c3e31244146
+r	java:S106""+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8êë°Ç‚2J$d28704d6-07c8-4f6c-8351-f368c74a1738
+r	java:S106'"+Replace this use of System.out by a logger.(™ô…Ñÿÿÿÿÿ8±ô²Ç‚2J$d525daed-ba9c-4951-a934-68a7803e9e69

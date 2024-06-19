@@ -1,16 +1,10 @@
 
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
 N
 src/primeiroPrograma/Main.java,8\4\8462576a2ea0bfae824f269a00b08600e1612b98
 b
 2src/operacoesAritmeticas/OperacoesAritmeticas.java,7\3\73e551fd7e55dfa8dca19e3b13861541f5833586
 H
 src/casting/Casting.java,5\c\5cb653c3e3179a7dd59bb92de5b4166900d60296
-T
-$src/entradaDadosScanner/Scanner.java,6\b\6bd4773a66aa1dc3245b388938586d04fdbb3874
-`
-0src/entradaDadosScanner/entradaDadosScanner.java,1\c\1c37138069b14e9d28efafd1a8a96bde7391bc51
 Y
 )src/entradaDadosScanner/DadosScanner.java,b\d\bd64bd473833fc191d54fbf25cf4d5b9849361ac
 Z
@@ -23,3 +17,7 @@ O
 .src/manipulandoStrings/ManipulandoStrings.java,4\9\4951ec90a845f8c6dc530fa2bb1b970b2499a608
 ^
 .src/tratamentoExcecoes/TratamentoExcecoes.java,5\2\52d75ad066506536937a57d8cef4afb47c6d7510
+T
+$src/controleFluxo/Exemploswitch.java,1\f\1f19989d1f14e78ce8a8f5fb9185b09017a1a2bd
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
