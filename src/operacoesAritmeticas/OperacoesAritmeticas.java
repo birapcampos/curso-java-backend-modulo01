@@ -21,6 +21,9 @@ public class OperacoesAritmeticas {
         System.out.println("Multiplicação: " + multiplicacao);
         System.out.println("Divisão: " + divisao);
         System.out.println("Módulo: " + modulo);
+        System.out.println("Raiz Quadrada: " + raizQuadrada);
+
+        System.out.println("Boleano - boolean");
 
         if(frase.contains(palavra))
             temPalavra = true;

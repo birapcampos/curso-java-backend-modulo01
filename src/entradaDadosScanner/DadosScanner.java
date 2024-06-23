@@ -1,11 +1,19 @@
 package entradaDadosScanner;
 
+import java.util.Locale;
 import java.util.Scanner;
 public class DadosScanner {
 
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
+
+        // Definindo o separador decimal como ponto
+        scanner.useLocale(Locale.US);
+
+        // Definindo o separador decimal como vírgula para o Brasil
+        //scanner.useLocale(new Locale("pt", "BR"));
+
 
         System.out.print("Digite um número inteiro: ");
         int numeroInteiro = scanner.nextInt();

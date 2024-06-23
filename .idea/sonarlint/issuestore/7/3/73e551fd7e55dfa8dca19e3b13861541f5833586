@@ -1,12 +1,10 @@
 
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ší8İÚ²›‚2J$1a68223e-7811-469f-b57e-59a84242c6a0
-ƒ
-java:S1854"@Remove this useless assignment to local variable "raizQuadrada".(ù«èÖ8ßÚ²›‚2J$d84d9f8e-6321-47ea-b2ed-b252c2752f02
-t
-java:S1481"1Remove this unused "raizQuadrada" local variable.(ù«èÖ8àÚ²›‚2J$07a174fd-94c8-445d-861a-55b78f1ebc10
-r	java:S106"+Replace this use of System.out by a logger.(Ê€Ñùÿÿÿÿ8àÚ²›‚2J$520370db-6647-4640-8305-41ee732c4df1
-m	java:S106"+Replace this use of System.out by a logger.(É¦ÀË8àÚ²›‚2J$40c2eaa7-e7bb-4406-99c7-6274f74dc078
-m	java:S106"+Replace this use of System.out by a logger.(ÖÁº¯8àÚ²›‚2J$ba02ef8e-4f8b-4751-8c1a-65b6ddbae2d6
-r	java:S106"+Replace this use of System.out by a logger.(­ÙÖ­úÿÿÿÿ8àÚ²›‚2J$ca066bbe-aab2-4576-845a-f21bcc5bea84
-m	java:S106"+Replace this use of System.out by a logger.(­ŒÁê8àÚ²›‚2J$2cc9d665-cfe8-49b5-a140-dce6f7219152
-m	java:S106"+Replace this use of System.out by a logger.(É¦É8áÚ²›‚2J$80f6a842-474b-4f4a-9e42-70581fbd5e28
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(´Ší8ö¼©„2J$48edebcc-887a-431a-8fce-0aaee62171bd
+r	java:S106"+Replace this use of System.out by a logger.(Ê€Ñùÿÿÿÿ8û¼©„2J$0cdcc864-5956-46d1-abd7-40871ebc0969
+m	java:S106"+Replace this use of System.out by a logger.(É¦ÀË8û¼©„2J$da943dcf-a113-4a31-b865-00408e2058d1
+m	java:S106"+Replace this use of System.out by a logger.(ÖÁº¯8û¼©„2J$ba451b8c-4896-4266-b707-c419ed9b364e
+r	java:S106"+Replace this use of System.out by a logger.(­ÙÖ­úÿÿÿÿ8ü¼©„2J$2a031446-db4a-4fb7-a135-835738d4c742
+m	java:S106"+Replace this use of System.out by a logger.(­ŒÁê8ü¼©„2J$e9806e82-4536-46f0-8f46-80a0837e17df
+m	java:S106"+Replace this use of System.out by a logger.(êª¹”8ü¼©„2J$ccf15e5e-aeec-4e8a-a7c7-9e1d356b5fee
+r	java:S106"+Replace this use of System.out by a logger.(·£¾ùÿÿÿÿÿ8ü¼©„2J$9a3846a6-099d-4211-b249-9cfbaad537c9
+m	java:S106!"+Replace this use of System.out by a logger.(É¦É8ı¼©„2J$90134610-bdd5-400a-967a-77985238bd57

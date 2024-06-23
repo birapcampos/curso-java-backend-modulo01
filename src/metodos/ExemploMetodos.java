@@ -10,6 +10,7 @@ public class ExemploMetodos {
 
     static class Exemplo {
         public void meuMetodo() {
+
             System.out.println("Este é o meu método!");
         }
     }
